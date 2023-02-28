@@ -4,7 +4,7 @@
 
 ### Description
 
-Readme Writer
+Readme Generator
 
 ### Table of Contents
 
